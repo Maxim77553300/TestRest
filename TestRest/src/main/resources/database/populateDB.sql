@@ -1,0 +1,1 @@
+INSERT INTO customers VALUES(1,'Ivan','Ivanov','Bel','Minsk','Sovet','1',100000.00);
